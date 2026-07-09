@@ -4,7 +4,7 @@
 :: set GIT=
 :: set VENV_DIR=
 
-set COMMANDLINE_ARGS= --uv --nunchaku --bnb --cuda-malloc --onnxruntime-gpu 
+set COMMANDLINE_ARGS= --uv --nunchaku --bnb --cuda-malloc --onnxruntime-gpu
 
 :: --xformers --sage --uv
 :: --pin-shared-memory --cuda-malloc --cuda-stream
